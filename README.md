@@ -5,19 +5,19 @@
 
 <h3 align="center">⚙️ Backend Engineer · ☁️ Cloud Engineer · Richmond, VA</h3>
 
-### 👨🏽‍💻 About Me
+### About Me
 
 I'm a **Backend & Cloud Engineer** who builds the full picture — the Go services that power applications *and* the AWS infrastructure they run on. From API design to Terraform-provisioned environments to Kubernetes deployments with full observability, my focus is making systems scalable, automated, and production-ready.
 
-- 🔭 **Currently building:** [Nimbus CLI](https://github.com/Lavale1012/nimbus) — secure cloud storage platform (Go/Gin · ECS Fargate · Terraform · RDS · CI/CD)
-- ☸️ **Recently shipped:** LLM inference deployment on **Amazon EKS** with Helm, ArgoCD, HPA autoscaling, and a Prometheus/Grafana observability stack
-- 🧠 **Learning:** how to architect cloud systems end-to-end — designing AWS architectures, then building them with Terraform and infrastructure-as-code
-- 🎓 **B.S. Computer Science** — Virginia Commonwealth University (May 2025)
-- 💼 IT Specialist @ Virginia Department of Social Services
+- **Currently building:** [Nimbus CLI](https://github.com/Lavale1012/nimbus) — secure cloud storage platform (Go/Gin · ECS Fargate · Terraform · RDS · CI/CD)
+- **Recently shipped:** LLM inference deployment on **Amazon EKS** with Helm, ArgoCD, HPA autoscaling, and a Prometheus/Grafana observability stack
+- **Learning:** how to architect cloud systems end-to-end — designing AWS architectures, then building them with Terraform and infrastructure-as-code
+- **B.S. Computer Science** — Virginia Commonwealth University (May 2025)
+- IT Specialist @ Virginia Department of Social Services
 
 ---
 
-### 🚀 Flagship Projects
+### Flagship Projects
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
@@ -27,7 +27,7 @@ I'm a **Backend & Cloud Engineer** who builds the full picture — the Go servic
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,aws,terraform,kubernetes,docker,ts,js,react,nextjs,nodejs,postgres,redis,mongodb,python,linux,git,githubactions,tailwind" />
@@ -35,7 +35,7 @@ I'm a **Backend & Cloud Engineer** who builds the full picture — the Go servic
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/lavale-butterfield"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
