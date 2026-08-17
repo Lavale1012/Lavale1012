@@ -4,7 +4,6 @@
 </h1>
 
 <h3 align="center">⚙️ Backend Engineer · ☁️ Cloud Engineer · Richmond, VA</h3>
----
 
 ### 👨🏽‍💻 About Me
 
