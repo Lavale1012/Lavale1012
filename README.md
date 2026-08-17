@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3CB0FF&center=true&vCenter=true&width=650&lines=Hey+there!+%F0%9F%91%8B;I'm+Lavale+Butterfield;Backend+Engineer+%7C+Cloud+Engineer;Go+%E2%80%A2+AWS+%E2%80%A2+Terraform+%E2%80%A2+Kubernetes" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">⚙️ Backend Engineer · ☁️ Cloud Engineer · Richmond, VA</h3>
+<h3 align="center">Backend Engineer · Cloud Engineer · Richmond, VA</h3>
 
 ### About Me
 
