@@ -41,27 +41,6 @@ I'm a **Backend & Cloud Engineer** who builds the full picture — the Go servic
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lavale1012&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=lavale1012&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavale1012&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lavale1012&theme=onedark&margin-w=10&row=1&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="center">
